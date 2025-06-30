@@ -21,7 +21,7 @@ SmartCam GUI is a Linux (V4L2) video surveillance application featuring:
 * **Deferred compression** (to MP4) running in background.
 * **Optional RTSP streaming** to remote indexer via FFmpeg.
 * **Automated email delivery** (real-time or on exit) with ZIP attachments.
-* **PyQt5 GUI** styled after Telegram theme — clean and responsive.
+* **PyQt5 GUI**  clean and responsive.
 * **Headless mode** (CLI-only) for minimal systems.
 * **Robust error handling** (camera access, permissions, SMTP failures).
 * **Configurable logging** (`--log` flag) at `DEBUG` or `WARNING` levels.
@@ -36,7 +36,7 @@ SmartCam GUI est une application de surveillance vidéo pour Linux (V4L2) offra
 * **Compression différée** (transcodage en MP4) en arrière-plan.
 * **Flux RTSP** optionnel vers un indexeur distant via FFmpeg.
 * **Envoi d’emails** automatisé (mode **realtime** ou **on\_exit**) avec attachement ZIP.
-* **Interface PyQt5** inspirée du thème Telegram, claire et fluide.
+* **Interface PyQt5** claire et fluide.
 * **Mode headless** (sans GUI), accessible en CLI.
 * **Gestion robuste des erreurs** (caméra inaccessible, droits, SMTP, etc.).
 * **Journalisation** configurable (`--log`) en niveaux `DEBUG` / `WARNING`.
