@@ -1,0 +1,27 @@
+{
+  "device": "/dev/video0",
+  "fps": 20,
+  "area": 1500,
+  "hits": 5,
+  "pre_s": 3,
+  "post_s": 3,
+  "out_dir": ".",
+  "prefix": "segment_",
+  "mail": {
+    "enabled": true,
+    "from": "noreply@example.com",
+    "to": "dest@example.com",
+    "smtp_user": "afsqd",
+    "smtp_pass": "ferqsd",
+    "smtp_host": "smtp-relay.gmail.com",
+    "smtp_port": 587
+  },
+  "send_mode": "realtime",
+  "rtsp": {
+    "enabled": false,
+    "url": "rtsp://indexer.example.com/live/stream"
+  },
+  "compress_after_min": 30,
+  "preview_raw": true,
+  "preview_proc": true
+}
