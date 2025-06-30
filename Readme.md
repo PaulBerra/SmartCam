@@ -1,7 +1,9 @@
 # SmartCam GUI (Linux, V4L2)
 
 <center>
+  
 ![image](https://github.com/user-attachments/assets/b1091edf-5e2d-484a-8554-55cde0cacbbc)
+
 </center>
 
 
