@@ -4,6 +4,21 @@
 
 ---
 
+## 🇬🇧 Overview
+
+SmartCam GUI is a Linux (V4L2) video surveillance application featuring:
+
+* **Motion detection** using MOG2 background subtraction with live indicator.
+* **Pre/post buffering** configurable to record seconds before/after events.
+* **Segmented recording**: separate `.avi` files for each motion event.
+* **Deferred compression** (to MP4) running in background.
+* **Optional RTSP streaming** to remote indexer via FFmpeg.
+* **Automated email delivery** (real-time or on exit) with ZIP attachments.
+* **PyQt5 GUI** styled after Telegram theme — clean and responsive.
+* **Headless mode** (CLI-only) for minimal systems.
+* **Robust error handling** (camera access, permissions, SMTP failures).
+* **Configurable logging** (`--log` flag) at `DEBUG` or `WARNING` levels.
+
 ## 🇫🇷 Présentation
 
 SmartCam GUI est une application de surveillance vidéo pour Linux (V4L2) offrant :
@@ -20,22 +35,6 @@ SmartCam GUI est une application de surveillance vidéo pour Linux (V4L2) offra
 * **Journalisation** configurable (`--log`) en niveaux `DEBUG` / `WARNING`.
 
 ---
-
-## 🇬🇧 Overview
-
-SmartCam GUI is a Linux (V4L2) video surveillance application featuring:
-
-* **Motion detection** using MOG2 background subtraction with live indicator.
-* **Pre/post buffering** configurable to record seconds before/after events.
-* **Segmented recording**: separate `.avi` files for each motion event.
-* **Deferred compression** (to MP4) running in background.
-* **Optional RTSP streaming** to remote indexer via FFmpeg.
-* **Automated email delivery** (real-time or on exit) with ZIP attachments.
-* **PyQt5 GUI** styled after Telegram theme — clean and responsive.
-* **Headless mode** (CLI-only) for minimal systems.
-* **Robust error handling** (camera access, permissions, SMTP failures).
-* **Configurable logging** (`--log` flag) at `DEBUG` or `WARNING` levels.
-
 ---
 
 ## Dépendances / Dependencies
