@@ -1,4 +1,4 @@
-# SmartCam GUI (Linux, V4L2)
+# SmartCam GUI
 
 <center>
   
