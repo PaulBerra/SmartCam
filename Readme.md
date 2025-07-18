@@ -11,7 +11,7 @@
 
 ---
 
-## 🇬🇧 Overview
+## Overview
 
 SmartCam GUI is a Linux (V4L2) video surveillance application featuring:
 
@@ -26,7 +26,7 @@ SmartCam GUI is a Linux (V4L2) video surveillance application featuring:
 * **Robust error handling** (camera access, permissions, SMTP failures).
 * **Configurable logging** (`--log` flag) at `DEBUG` or `WARNING` levels.
 
-## 🇫🇷 Présentation
+## Présentation
 
 SmartCam GUI est une application de surveillance vidéo pour Linux (V4L2) offrant :
 
