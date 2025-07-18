@@ -1,4 +1,4 @@
-# SmartCam GUI
+# SmartCam
 
 <center>
   
