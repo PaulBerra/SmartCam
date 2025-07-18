@@ -141,7 +141,7 @@ smartcam/
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont les bienvenues ! Merci de :
 
